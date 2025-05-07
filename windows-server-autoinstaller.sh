@@ -30,9 +30,9 @@ display_menu
 case $choice in
     1)
         # Windows Server 2003
-        img_file="windows2003.img"
-        iso_link="https://archive.org/download/Windows_Server_2003_R2_Standard_x64/Windows_Server_2003_R2_Standard_x64_CD1.iso"
-        iso_file="windows2003.iso"
+        img_file="windows2008.img"
+        iso_link="https://archive.org/download/Windows_Server_2008_R2_x64.iso_reupload/Windows_Server_2008_R2_x64.iso"
+        iso_file="windows2008.iso"
         ;;
     2)
         # Windows Server 2019
