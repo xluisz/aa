@@ -31,7 +31,7 @@ case $choice in
     1)
         # Windows Server 2003
         img_file="windows2008.img"
-        iso_link="https://archive.org/download/Windows_Server_2008_R2_x64.iso_reupload/Windows_Server_2008_R2_x64.iso"
+        iso_link="https://download.microsoft.com/download/d/7/e/d7e49421-6d66-4656-9d16-1de8fe8acc7b/7601.17514.101119-1850_ia64fre_serverenterpriseia64_eval_en-us-GRMSIAiEVAL_EN_DVD.iso"
         iso_file="windows2008.iso"
         ;;
     2)
