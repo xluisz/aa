@@ -3,7 +3,7 @@
 # Function to display menu and get user choice
 display_menu() {
     echo "Please select the Windows Server or Windows version:"
-    echo "1. Windows Server 2003"
+    echo "1. Windows Server 2008"
     echo "2. Windows Server 2019"
     echo "3. Windows Server 2022"
     echo "4. Windows 10"
